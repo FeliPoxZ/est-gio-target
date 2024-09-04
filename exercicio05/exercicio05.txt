@@ -1,0 +1,10 @@
+Primeiramente eu ligaria o primeiro interruptor (interruptor A), deixaria ele ligado por um tempo.
+Depois eu iria desligar o interruptor A.
+Após isso eu ligaria o segundo interruptor (interruptor B), e deixaria ele ligado.
+Dessa forma eu entraria na primeira sala, se ela estivesse ligada, o interruptor que controla 
+é o interruptor B. Se a lampada estivesse quente significaria que o interruptor que controla é o A,
+e se a lampada estivesse fria seria o terceiro interruptor (interruptor C).
+Dessa forma eliminaria um dos interruptores.
+Após isso eu iria para outra sala e verificava as mesmas condições, eliminado a condição que concluiu
+qual é o interruptor da primeira sala, dessa maneira eliminando dois interruptores, sobrando então a
+terceira sala com o ultimo interruptor.
